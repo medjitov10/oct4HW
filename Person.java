@@ -1,4 +1,4 @@
-package GA.homework.oct4;
+package GA.homework.hwoct4;
 
 public abstract class Person {
 

@@ -1,4 +1,4 @@
-package GA.homework.oct4;
+package GA.homework.hwoct4;
 
 public class Student {
     private String name;

@@ -1,4 +1,6 @@
-package GA.homework.oct4;
+package GA.homework.hwoct4;
+
+import GA.homework.hwoct4.Person;
 
 public class Teacher extends Person {
     private String name;

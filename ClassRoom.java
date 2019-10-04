@@ -1,4 +1,4 @@
-package GA.homework.oct4;
+package GA.homework.hwoct4;
 
 public class ClassRoom extends School {
     private String type;
